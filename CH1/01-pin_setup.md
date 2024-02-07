@@ -1,5 +1,5 @@
 # Bolt Glitching Multitool - Challenges
-## Challenge 1
+## Challenge 1 - setup and pin mappings
 
 **Follow these instructions/hints etc at your own risk !! I can't be held respnsible for any damage you might cause to any of your devices!**
 
