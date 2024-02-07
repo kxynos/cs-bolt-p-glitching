@@ -26,10 +26,10 @@ Install screen:
 sudo apt install screen
 ```
 
-### 1. Shikra or any device that supports UART
+### 2. Shikra or any device that supports UART
 UART is s very simple protocol and here we have to connect the `TX` port on the Shikra to the `RX` on the target and then the `RX` port on the Shikra to the `TX` on the target and finally connect the `GND` from the Shikra to the target. (If you make a mistake just switch them over.)
 
-### 2. ST-Link V2
+### 3. ST-Link V2
 
 Wire up the provided ST-Link v2 and the target board. You will be connecting to the JTAG port which are the pins `SWDIO`, `SWCLK` and `GND` from the ST-Link V2 to those found on the target board. I won't provide the pin numbers as the two ST-Links I have different pin mappings, so check yours first. It doesn't hurt to double and triple check connections)
 
