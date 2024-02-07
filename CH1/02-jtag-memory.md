@@ -2,7 +2,7 @@
 
 ## Challenge 1 - JTAG memory dump and investigation (setup and getting you to the solution)
 
-** Follow these instructions/hints etc at your own risk !! I can't be held respnsible for any damage you might cause to any of your devices! **
+**Follow these instructions/hints etc at your own risk !! I can't be held respnsible for any damage you might cause to any of your devices!**
 
 Investigate the target board for what chips are on it.
 
