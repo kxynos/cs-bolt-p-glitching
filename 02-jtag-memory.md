@@ -1,7 +1,7 @@
 
 Investigate the taget board for what chip are on it.
 
-We notice that it has a STM32F1xxxx so lets see what the datasheet says (https://www.st.com/resource/en/datasheet/stm32f103c8.pdf). 
+We notice that it has a STM32F103xx so lets see what the datasheet says (https://www.st.com/resource/en/datasheet/stm32f103c8.pdf). 
 What we are looking for here are 2 things: 
 a) the location of the SRAM and, b) the size. 
 
