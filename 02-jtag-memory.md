@@ -1,5 +1,5 @@
+# Bolt Glitching Multitool - Challenges
 
-# Bolt - Challenges 
 ## Challenge 1 - JTAG memory dump and investigation (setup and getting you to the solution)
 
 Investigate the target board for what chips are on it.
