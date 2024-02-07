@@ -1,7 +1,7 @@
 # Bolt Glitching Multitool - Challenges
 ## Challenge 1
 
-** Follow these instructions/hints etc at your own risk !! I can't be held respnsible for any damage you might cause to any of your devices! **
+**Follow these instructions/hints etc at your own risk !! I can't be held respnsible for any damage you might cause to any of your devices!**
 
 Devices used:
 * Shikra to investigate UART ports (you can use RaspberryPi, Buspirate, 
