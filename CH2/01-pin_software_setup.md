@@ -104,7 +104,7 @@ Hold one of the 4 challenge buttons to start them
 Hold one of the 4 challenge buttons to start them
 ```
 
-This is only the first step in solving this challenge. You know need to find the correct timing and set it in `s.glitch.repeat` and trigger a glitch.
+This is only the first step in solving this challenge. You now need to find the correct timing and set it in `s.glitch.repeat` and trigger a glitch.
 
 Good luck with your glitching and finding the CTF flag!
 
