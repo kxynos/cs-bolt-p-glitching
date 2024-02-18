@@ -10,7 +10,7 @@ Devices used:
 
 Software used:
 * screen (see CH1 for installing screen)
-* Bolt scope library 
+* BOLT scope library (Python3)
 
 Aim of this tutorial:
 * Reset the target board using the BOLT. The BOLT will cause a voltage glitch via Python3 that we control.
