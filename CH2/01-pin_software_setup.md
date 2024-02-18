@@ -41,13 +41,13 @@ Install pyserial:
 pip3 install pyserial
 ```
 
-Setup serial comms permissions(add current user to the `dailout` group, exit and loging again for it to apply): 
+Setup serial comms permissions(add current user to the `dailout` group, exit and logging again for it to apply): 
 ```
 sudo usermod -a -G dialout $USER
 logout
 ```
 
-Check that `dailout` group is present: 
+After logging in again, check that `dailout` group is present: 
 ```
 groups
 ```
