@@ -78,7 +78,7 @@ s.glitch.repeat = 1000000
 s.trigger()
 ```
 
-We need to setup `s.glitch.repeat` to the correct value. For now we will set it to a large number so we can see it resetting the board via UART/screen. By setting `s.glitch.repeat = 1000000` we will get `8.3ms` total glitch duration. (Each clock cycle is 8.3ns, so this would be 8.3ms total glitch duration) - Thank `Tom` for the information!
+We need to setup `s.glitch.repeat` to the correct value. For now we will set it to a large number so we can see it resetting the board via UART/screen. By setting `s.glitch.repeat = 1000000` we will get `8.3ms` total glitch duration. (Each clock cycle is 8.3ns, so this would be 8.3ms total glitch duration) - Thank you `Tom` for the information!
 
 
 Expected output from console on PC:
