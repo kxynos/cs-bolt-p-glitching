@@ -30,6 +30,8 @@ Table 1. pin mapping
 
 Note. I am using my Shikra to still be able to interact with the UART interface. (See CH1 for how I set that up)
 
+Now you can plug in the Target board via USB-C to power it up. As well as your BOLT. (This means you need 2 USB ports free, or at least a power source for the target board).
+
 ### 2. Setup software 
 
 We need to install pyserial dependancy.
