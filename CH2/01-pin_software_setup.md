@@ -108,5 +108,29 @@ Hold one of the 4 challenge buttons to start them
 
 This is only the first step in solving this challenge. You now need to find the correct timing and set it in `s.glitch.repeat` and trigger a glitch.
 
+You can also try a small loop that causes the glitch to continiously happen (the repeat value here is random, you have to find the correct one for your setup):
+
+```
+..
+>>> s.glitch.repeat = 100
+>>> a=[s.trigger () for i in range (50000)]
+
+```
+
+You should get something like this:
+
+```
+Hold one of the 4 challenge buttons to start them
+Starting challenge 2
+1000 1000 16924936
+1000 1000 17186534
+1000 1000 17380568
+
+```
+
+Hints:
+* I have noticed that the timing will be different based on the setup/cables used. (So keep it in mind if you have different values)
+
+
 Good luck with your glitching and finding the CTF flag!
 
